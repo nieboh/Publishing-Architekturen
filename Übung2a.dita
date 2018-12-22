@@ -21,7 +21,7 @@
                         <choptionhd>Hervorheben</choptionhd>
                         <chdeschd>Vorgehensweise</chdeschd>
                     </chhead>
-                    <chrow>
+                    <chr
                         <choption>Werte in bestimmten Zellen. Beispiele sind Datumswerte nach dieser Woche oder Zahlen zwischen 50 und 100 oder die untersten 10 Prozent der Ergebniswerte</choption>
                         <chdesc>Zeigen Sie auf Regeln zum Hervorheben von Zellen oder auf Obere/untere Regeln, und klicken Sie dann auf die gewünschte Option</chdesc>
                     </chrow>
